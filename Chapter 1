@@ -53,3 +53,5 @@ billpred = matmul(features, params)
 # Compute and print the error
 error = bill - billpred
 print(error.numpy())
+
+
