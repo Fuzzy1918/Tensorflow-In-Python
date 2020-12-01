@@ -23,3 +23,5 @@ B1 = A1.numpy()
 
 # Print B1
 print(B1)
+
+#Basic operations
