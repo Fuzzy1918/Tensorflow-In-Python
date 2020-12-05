@@ -26,3 +26,6 @@ waterfront = tf.cast(housing['waterfront'], tf.bool)
 # Print price and waterfront
 print(price)
 print(waterfront)
+
+#Loss functions
+
