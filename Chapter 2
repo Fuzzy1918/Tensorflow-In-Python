@@ -55,3 +55,7 @@ def loss_function(scalar, features = features, targets = targets):
 
 # Evaluate the loss function and print the loss
 print(loss_function(scalar).numpy())
+
+#Linear regression
+
+
