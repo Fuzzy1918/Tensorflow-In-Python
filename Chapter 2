@@ -108,3 +108,6 @@ opt = keras.optimizers.Adam()
 for j in range(10):
 	opt.minimize(lambda: loss_function(params), var_list=[params])
 	print_results(params)
+
+#Batch training
+
