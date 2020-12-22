@@ -76,3 +76,5 @@ outputs = keras.layers.Dense(6, activation = 'softmax')(dense2)
 
 # Print first five predictions
 print(outputs.numpy()[:5])
+
+#Optimizers
