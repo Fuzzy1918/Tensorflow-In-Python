@@ -44,3 +44,5 @@ model = keras.Model(inputs=[m1_inputs, m2_inputs], outputs=merged)
 
 # Print a model summary
 print(model.summary())
+
+#Training and validation with Keras
